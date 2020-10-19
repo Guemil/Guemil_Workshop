@@ -1,6 +1,6 @@
 # Guemil Workshop
 
-### A workshop to explore and prototype the design of information, using Guemil | Un taller para explorar y prototipar piezas de diseño de información, utilizando Guemil
+### Guemil Workshop is a collaborative exploration on information design for emergency, based on rapid prototyping with Guemil Icons | Guemil Workshop es una exploración colaborativa en diseño de información para la emergencia, basada en la creación rápida de prototipos con Íconos Guemil.
 
 - - - - - - - - - 
 
