@@ -5,10 +5,12 @@
 
 - - - - - - - - - - - 
 
-Questions, comments? / Preguntas, comentarios?
+**Questions, comments? / Preguntas, comentarios?**
 
-Email: guemilproject@gmail.com
-
-Twitter: [@Guemil_Icons](https://twitter.com/Guemil_Icons)
+**Email**: guemilproject@gmail.com
 
 Website: http://www.guemil.info/
+
+Instagram: [@Guemil_Icons](https://www.instagram.com/Guemil_Icons/)
+
+Twitter: [@Guemil_Icons](https://twitter.com/Guemil_Icons)
