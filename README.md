@@ -1,4 +1,4 @@
-# Guemil_Workshop
+# Guemil Workshop
 
 ### A workshop to explore and prototype the design of information, using Guemil | Un taller para explorar y prototipar piezas de diseño de información, utilizando Guemil
 
