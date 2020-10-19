@@ -9,6 +9,6 @@ Questions, comments? / Preguntas, comentarios?
 
 Email: guemilproject@gmail.com
 
-Twitter: @GuemilIcons
+Twitter: [@Guemil_Icons](https://twitter.com/Guemil_Icons)
 
 Website: http://www.guemil.info/
